@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MedeTour</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Menu</string>
+    <string name="title_activity_splash">Medellin</string>
+    <string name="medellin">Medellin from another perspective</string>
+    <string name="cine">1.  Cinemas</string>
+    <string name="dirmont">Address: Cra 48 # 10 - 454</string>
+    <string name="telmont">Reservations:444 2244</string>
+
+    <string name="dirmoli">Address: Cl. 30A #82A - 26</string>
+    <string name="telmoli">Reservations:360 24 63</string>
+
+    <string name="dirtes">Address: Cra. 25 A #1A - Sur 45</string>
+    <string name="teltes">Reservations:321 09 74</string>
+
+    <string name="teatro">2.  Theatres</string>
+    <string name="dirmetro">Address: Cl. 41 #57-30</string>
+    <string name="telmetro">Phone:232 45 97</string>
+    <string name="metro">The Metropolitan Theater where you will find the best cultural events in Medellin</string>
+
+    <string name="dirtobon">Address: Cl. 41 #57-30</string>
+    <string name="teltobon">Phone:239 75 00</string>
+    <string name="tobon">the Teatro Pablo Tobón, a cultural center with 63 years of history, cultural heritage and architectural Medellin</string>
+
+    <string name="dirudem">Address: Cra. 87 #30-65</string>
+    <string name="teludem">Telephone:340 52 02</string>
+    <string name="udem">The Teatro de la Universidad de Medellin, a perfect setting to enjoy great shows and events.</string>
+
+    <string name="restaurante">3.  Restaurant</string>
+    <string name="diralb">Address: Cra. 81 #33A-07</string>
+    <string name="tefalb">Telephone:4449921</string>
+    <string name="albenzu">More than a restaurant we are one family, with local projection home, we provide a good family atmosphere</string>
+
+    <string name="dirin">Address: Cl. 73 #51-14</string>
+    <string name="telin">Telephone:2332373</string>
+    <string name="insitu">Quality, beauty, excellent service and a delicious menu. In Situ must for visitors in the city and people of Medellin</string>
+
+    <string name="dirocio">Address: Cra. 33 #7-21</string>
+    <string name="telocio">Telephone: 4488203</string>
+    <string name="ocio">The passion for cooking and the desire to offer a different architectural space to what already existed in the city, enjoy leisure time</string>
+
+    <string name="Rumba">4.  Party</string>
+    <string name="dirblue">Address: Cl. 66A #55-116 2ºpiso</string>
+    <string name="telblue">Telephone: 300 7717625</string>
+    <string name="blue">The Blue Hall adequate space with backline, lights, stage and dressing room, where you can enjoy the best concerts of rock city</string>
+
+    <string name="dirnuestrobar">Address:Cl. 33 #65B-67</string>
+    <string name="telnuestrobar">Telephone: 2351551</string>
+    <string name="nuestrobar">Nuestro Bar is a place to watch, listen and enjoy local, national and international bands in all genres Rock derivatives</string>
+
+    <string name="diryagebar">Address: Cl. 68 #96-27</string>
+    <string name="telyagebar">Telephone: 3017136445</string>
+    <string name="yagebar"> Yage BAR a place to share and make friends; a space to dream, to create and enjoy music that feeds our spirit</string>
+
+    <string name="sitios">5.  Tourist Places</string>
+    <string name="laguna">Lagoon Guarne it offers a few scenarios with natural landscapes and historical evaluation of the Valle de Aburra. In this space you can enjoy natural viewpoints towards the city, archaeological items such as fences, terraces and stone paths and natural attractions such as wetlands</string>
+    <string name="mirador">The architectural project located Saint Dominic Savio College Northeast side of Medellin become a meeting place able to provide spaces for dialogue, fun and sharing of values between the person perimiter be in permanent contact with the landscape and pan the city</string>
+    <string name="jardin">The Medellin Botanical Garden one of the most beautiful and important living museums of our country, is a place to relax and contemplate its enormous floral wealth, since it has the largest collection of orchids throughout the city, also home to more than 1,000 animal and plant species. An auditorium, library and museums.</string>
+    <string name="Informacion">APP designer</string>
+    <string name="title_activity_cines">Cinemas</string>
+    <string name="title_activity_teatros">Theatres</string>
+    <string name="title_activity_restaurantes">Restaurant</string>
+    <string name="title_activity_rumba">Party</string>
+    <string name="title_activity_sitios">Tourist Places</string>
+    <string name="title_activity_about">About..</string>
+    <string name="menu">Menu</string>
+
+</resources>

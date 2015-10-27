@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">MedeTour</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Menu</string>
+    <string name="title_activity_splash">Medellin</string>
+    <string name="medellin">Medellin desde otra Perspectiva</string>
+    <string name="cine">1.  Cines</string>
+    <string name="dirmont">Dirección: Cra 48 # 10 - 454</string>
+    <string name="telmont">Reservas:444 2244</string>
+
+    <string name="dirmoli">Dirección: Cl. 30A #82A - 26</string>
+    <string name="telmoli">Reservas:360 24 63</string>
+
+    <string name="dirtes">Dirección: Cra. 25 A #1A - Sur 45</string>
+    <string name="teltes">Reservas:321 09 74</string>
+
+    <string name="teatro">2.  Teatro</string>
+    <string name="dirmetro">Dirección: Cl. 41 #57-30</string>
+    <string name="telmetro">Teléfono:232 45 97</string>
+    <string name="metro">El Teatro Metropolitano, donde encontrarás los mejores eventos culturales de Medellín</string>
+
+    <string name="dirtobon">Dirección: Cl. 41 #57-30</string>
+    <string name="teltobon">Teléfono:239 75 00</string>
+    <string name="tobon">El Teatro Pablo Tobón, un centro cultural de puertas abiertas con 63 años de historias, es patrimonio cultural y arquitectónico de Medellín</string>
+
+    <string name="dirudem">Dirección: Cra. 87 #30-65</string>
+    <string name="teludem">Teléfono:340 52 02</string>
+    <string name="udem">El Teatro de la Universidad de Medellín,un escenario perfecto para disfrutar de grandes espectáculos y eventos.</string>
+
+    <string name="restaurante">3.  Restaurante</string>
+    <string name="diralb">Dirección: Cra. 81 #33A-07</string>
+    <string name="tefalb">Teléfono:4449921</string>
+    <string name="albenzu">Más que un Restaurante somos una casa, una familia, con proyección local, que proporcionamos un buen ambiente familiar</string>
+
+    <string name="dirin">Dirección: Cl. 73 #51-14</string>
+    <string name="telin">Teléfono:2332373</string>
+    <string name="insitu">Calidad, belleza, excelente servicio y una deliciosa carta. In Situ lugar obligado para los visitantes en la ciudad y la gente de Medellín</string>
+
+    <string name="dirocio">Dirección: Cra. 33 #7-21</string>
+    <string name="telocio">Teléfono: 4488203</string>
+    <string name="ocio">La pasión por la cocina y el deseo de ofrecer un espacio arquitectónico diferente a lo que ya existía en la ciudad, disfrutar del tiempo de Ocio</string>
+
+    <string name="Rumba">4.  Rumba</string>
+    <string name="dirblue">Dirección: Cl. 66A #55-116 2ºpiso</string>
+    <string name="telblue">Teléfono: 300 7717625</string>
+    <string name="blue">The Blue Hall un espacio adecuado con back line, luces, escenario y un camerino, donde disfrutaras los mejores conciertos de rock de la ciudad</string>
+
+    <string name="dirnuestrobar">Dirección:Cl. 33 #65B-67</string>
+    <string name="telnuestrobar">Teléfono: 2351551</string>
+    <string name="nuestrobar">Nuestro Bar es un sitio para ver, escuchar y disfrutar las bandas locales, nacionales e internacionales en todos los géneros derivados del Rock</string>
+
+    <string name="diryagebar">Dirección: Cl. 68 #96-27</string>
+    <string name="telyagebar">Teléfono: 3017136445</string>
+    <string name="yagebar"> Yage BAR Un espacio para compartir y conocer amigos; un espacio para soñar,para crear y para disfrutar de la musica que alimenta nuestro espiritu</string>
+
+    <string name="sitios">5.  Sitios turisticos</string>
+    <string name="laguna">La Laguna de Guarne te ofrece unos escenarios con paisajes naturales y una valoración histórica del Valle de Aburrá. En este espacio se disfruta de miradores naturales hacia la ciudad, de elementos arqueológicos como los vallados, terrazas y caminos en piedra y de atractivos naturales como los humedales.</string>
+    <string name="mirador">El proyecto arquitectonico del Colegio santo domingo savio ubicado ladera Nororiental de Medellín se convertido en un lugar de encuentro capaz de propiciar espacios para el dialogo,diversion y de intercambio de valores entre las persona, perimitiendo estar en contacto permanente con el paisaje y la panoramica de la ciudad</string>
+    <string name="jardin">El Jardín Botánico de Medellín uno de los museos vivos más bellos e importantes de nuestro país, es un lugar para relajarse y contemplar su enorme riqueza florística, ya que cuenta con la colección más grande de orquídeas de toda la ciudad, también alberga más de 1.000 especies animales y vegetales. Cuenta con un auditorio, biblioteca y museos.</string>
+    <string name="Informacion">Diseñador de la APP</string>
+    <string name="title_activity_cines">Cines</string>
+    <string name="title_activity_teatros">Teatros</string>
+    <string name="title_activity_restaurantes">Restaurantes</string>
+    <string name="title_activity_rumba">Rumba</string>
+    <string name="title_activity_sitios">Sitios Turisticos</string>
+    <string name="title_activity_about">Acerca de..</string>
+    <string name="menu">Menu</string>
+
+</resources>

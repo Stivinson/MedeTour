@@ -1,0 +1,84 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/chocolate">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="100sp"
+        android:textColor="@color/black"
+        android:text="@string/Informacion"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:gravity="center_horizontal"
+        android:textSize="50sp"
+        android:layout_weight="1.5"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/black"
+        android:text="Stivinson Martinez Hernandez"
+        android:gravity="center_horizontal"
+        android:layout_weight="2.1"
+        android:textSize="20dp"
+        android:textStyle="italic"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/black"
+        android:text="cc: 1128436982"
+        android:gravity="center_horizontal"
+        android:layout_weight="2.1"
+        android:textSize="20sp"
+        android:textStyle="italic"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/black"
+        android:text="stivinson02@gmail.com"
+        android:gravity="center_horizontal"
+        android:layout_weight="2"
+        android:textSize="20dp"
+        android:textStyle="italic"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/black"
+        android:text="Estudiante de ingenieria Electronica"
+        android:gravity="center_horizontal"
+        android:layout_weight="2.1"
+        android:textSize="20sp"
+        android:textStyle="italic"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/black"
+        android:text="Universidad De Antioquia"
+        android:gravity="center_horizontal"
+        android:layout_weight="2.5"
+        android:textSize="20sp"
+        android:textStyle="italic"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/black"
+        android:text="Medellin"
+        android:gravity="center_horizontal"
+        android:layout_weight="2.1"
+        android:textSize="20sp"
+        android:textStyle="italic"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/black"
+        android:text="2015"
+        android:gravity="center_horizontal"
+        android:layout_weight="1.7"
+        android:textSize="20sp"
+        android:textStyle="italic"/>
+
+</LinearLayout>

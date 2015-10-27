@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="48dp"
+    android:background="@color/mediumseagreen">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300sp"
+        android:src="@drawable/insitu"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50sp"
+        android:text="@string/dirin"
+        android:gravity="center_horizontal"
+        android:textSize="40sp"
+        android:textColor="@color/maroon"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/telin"
+        android:gravity="center_horizontal"
+        android:textSize="35sp"
+        android:textColor="@color/maroon"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/insitu"
+        android:layout_weight="1"
+        android:textSize="45sp"
+        android:textColor="@color/maroon"/>
+</LinearLayout>
+</ScrollView>
