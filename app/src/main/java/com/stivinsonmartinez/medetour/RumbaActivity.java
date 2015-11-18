@@ -11,6 +11,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.Toast;
 
 public class RumbaActivity extends AppCompatActivity implements ActionBar.TabListener, ViewPager.OnPageChangeListener {
@@ -127,5 +128,31 @@ public class RumbaActivity extends AppCompatActivity implements ActionBar.TabLis
         public int getCount() {
             return 3;
         }
+    }
+
+    public void bares(View v){
+        Intent bar = new Intent(this,MapsActivity.class);
+        bar.putExtra("latitud",6.26400);
+        bar.putExtra("longitud",-75.568530);
+        bar.putExtra("lugar","BLUE BAR");
+        startActivity(bar);
+
+    }
+    public void nuestrobar (View v){
+        Intent bar = new Intent(this,MapsActivity.class);
+        bar.putExtra("latitud",6.2373702);
+        bar.putExtra("longitud",-75.5820145);
+        bar.putExtra("lugar","Nuestro BAR");
+        startActivity(bar);
+
+    }
+
+    public void yagebar(View v){
+        Intent bar = new Intent(this,MapsActivity.class);
+        bar.putExtra("latitud",6.2914518);
+        bar.putExtra("longitud",-75.5720772);
+        bar.putExtra("lugar","Yage Bar");
+        startActivity(bar);
+
     }
 }

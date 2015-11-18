@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">MedeTour</string>
 
+    <string name="mapa">mapa</string>
+    <string name="vistalaguna">Mapa Laguna</string>
+    <string name="vistamirador">Mapa Mirador</string>
+    <string name="vistajardin">Mapa jardin</string>
+
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Menu</string>
     <string name="title_activity_splash">Medellin</string>
@@ -66,5 +71,6 @@
     <string name="title_activity_sitios">Sitios Turisticos</string>
     <string name="title_activity_about">Acerca de..</string>
     <string name="menu">Menu</string>
+    <string name="title_activity_maps">Map</string>
 
 </resources>

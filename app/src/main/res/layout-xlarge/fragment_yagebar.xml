@@ -34,4 +34,12 @@
         android:layout_weight="1"
         android:textSize="45sp"
         android:textColor="@color/yellow"/>
+    <Button
+        android:layout_width="200sp"
+        android:layout_height="70sp"
+        android:layout_gravity="center"
+        android:textSize="30sp"
+        android:text="mapa"
+        android:id="@+id/baryage"
+        android:onClick="yagebar"/>
 </LinearLayout>

@@ -26,4 +26,13 @@
         android:gravity="center_horizontal"
         android:textSize="20sp"
         android:textColor="@color/khaki"/>
+
+    }
+    <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/mapa"
+    android:id="@+id/molinoscine"
+    android:onClick="molinos"/>
 </LinearLayout>

@@ -11,6 +11,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.Toast;
 
 public class RestaurantesActivity extends AppCompatActivity implements ActionBar.TabListener, ViewPager.OnPageChangeListener {
@@ -127,4 +128,6 @@ public class RestaurantesActivity extends AppCompatActivity implements ActionBar
             return 3;
         }
     }
+
+
 }

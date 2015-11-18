@@ -34,4 +34,12 @@
         android:text="@string/blue"
         android:textSize="45sp"
         android:textColor="@color/black"/>
+    <Button
+        android:layout_width="200sp"
+        android:layout_height="70sp"
+        android:layout_gravity="center"
+        android:textSize="29sp"
+        android:text="mapa"
+        android:id="@+id/bBlue"
+        android:onClick="bares"/>
 </LinearLayout>

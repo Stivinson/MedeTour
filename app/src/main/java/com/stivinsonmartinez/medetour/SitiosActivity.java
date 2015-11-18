@@ -11,6 +11,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.Toast;
 
 public class SitiosActivity extends AppCompatActivity implements ActionBar.TabListener, ViewPager.OnPageChangeListener {
@@ -60,9 +61,33 @@ public class SitiosActivity extends AppCompatActivity implements ActionBar.TabLi
             startActivity(i);
             return true;
         }
-        if (id == R.id.action_menu) {
+      if (id == R.id.action_menu) {
             Intent i =new Intent(this,MainActivity.class);
             startActivity(i);
+            return true;
+        }
+        if (id == R.id.action_laguna) {
+            Intent bar = new Intent(this,MapsActivity.class);
+            bar.putExtra("latitud",6.2717075);
+            bar.putExtra("longitud",-75.5252798);
+            bar.putExtra("lugar","Laguna");
+            startActivity(bar);
+            return true;
+        }
+        if (id == R.id.action_mirador) {
+            Intent bar = new Intent(this,MapsActivity.class);
+            bar.putExtra("latitud",6.2900909);
+            bar.putExtra("longitud",-75.5551593);
+            bar.putExtra("lugar","Mirador");
+            startActivity(bar);
+            return true;
+        }
+        if (id == R.id.action_jardin) {
+            Intent bar = new Intent(this,MapsActivity.class);
+            bar.putExtra("latitud",6.2710285);
+            bar.putExtra("longitud",-75.5644309);
+            bar.putExtra("lugar","Jardin Botanico");
+            startActivity(bar);
             return true;
         }
 

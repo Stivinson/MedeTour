@@ -8,13 +8,13 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_weight="1.3"
+        android:layout_weight="1.7"
         android:src="@drawable/molinos"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="@string/dirmoli"
-        android:layout_weight="4.4"
+        android:layout_weight="4"
         android:gravity="center_horizontal"
         android:textSize="50sp"
         android:textColor="@color/khaki"/>
@@ -26,4 +26,12 @@
         android:gravity="center_horizontal"
         android:textSize="45sp"
         android:textColor="@color/khaki"/>
+    <Button
+        android:layout_width="200sp"
+        android:layout_height="70sp"
+        android:layout_gravity="center"
+        android:textSize="29sp"
+        android:text="mapa"
+        android:id="@+id/bmolinos"
+        android:onClick="molinos"/>
 </LinearLayout>

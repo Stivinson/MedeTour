@@ -34,5 +34,12 @@
         android:layout_weight="1"
         android:textSize="45sp"
         android:textColor="@color/violet"/>
-
+    <Button
+        android:layout_width="200sp"
+        android:layout_height="70sp"
+        android:layout_gravity="center"
+        android:textSize="29sp"
+        android:text="mapa"
+        android:id="@+id/bnuestrobar"
+        android:onClick="nuestrobar"/>
     </LinearLayout>

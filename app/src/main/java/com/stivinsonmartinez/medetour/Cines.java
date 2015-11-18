@@ -11,6 +11,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.Toast;
 
 public class Cines extends AppCompatActivity implements ActionBar.TabListener, ViewPager.OnPageChangeListener {
@@ -127,5 +128,30 @@ public class Cines extends AppCompatActivity implements ActionBar.TabListener, V
         public int getCount() {
             return 3;
         }
+    }
+
+    public void monterrey(View v){
+        Intent bar = new Intent(this,MapsActivity.class);
+        bar.putExtra("latitud",6.2147379);
+        bar.putExtra("longitud",-75.5766812);
+        bar.putExtra("lugar","Monterrey");
+        startActivity(bar);
+
+    }
+    public void molinos (View v){
+        Intent bar = new Intent(this,MapsActivity.class);
+        bar.putExtra("latitud",6.23317);
+        bar.putExtra("longitud",-75.6042229);
+        bar.putExtra("lugar","Los Molinos");
+        startActivity(bar);
+    }
+
+    public void tesoro(View v){
+        Intent bar = new Intent(this,MapsActivity.class);
+        bar.putExtra("latitud",6.1980703);
+        bar.putExtra("longitud",-75.559158);
+        bar.putExtra("lugar","El Tesoro");
+        startActivity(bar);
+
     }
 }
